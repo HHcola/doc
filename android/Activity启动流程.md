@@ -169,7 +169,7 @@ ActivityStarter启动activity
 
         if (request.outActivity != null) {
             request.outActivity[0] = mLastStartActivityRecord;
-        }
+        }∏
 
         return mLastStartActivityResult;
     }
